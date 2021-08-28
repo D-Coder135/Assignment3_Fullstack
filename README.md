@@ -2,4 +2,4 @@
 
 # Assignment3_Fullstack
 
-The main goal was to live the html file, index.html, as a web-page using a feature of Github known as Github Pages. The assignment was officially assigned by a faculty of GLA University Mr. Pankaj Kapoor. 
+The main goal of this assignment was to live the html file, index.html, as a web-page using a feature of Github known as Github Pages. The assignment was officially assigned by a faculty of GLA University Mr. Pankaj Kapoor. 
